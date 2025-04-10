@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portofolio<br>🤝 I’m looking for help with front end and back end<br>🌱 I’m currently learning: React, python and php<br>💬 Ask me about anything<br>⚡ Fun fact I love working in teams
+🔭 I’m currently working on a multiplayer quiz website <br>🤝 I’m looking for help with front end and back end<br>🌱 I’m currently learning php, python, django and react <br>💬 Ask me about anything<br>⚡ Fun fact I love working together, so hit me up:)
 
 
 ## 🌐 Socials:
